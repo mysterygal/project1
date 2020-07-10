@@ -1,8 +1,24 @@
-## Welcome to GitHub Pages
+## Telecom Churn Prediction in South Asian Market
 
-You can use the [editor on GitHub](https://github.com/mysterygal/project1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi folks,Finally I am writing my first blogpost after giving so  much thought about which subject to write about,I decided to go with a full Machine learning project I recently did.
+I will share the zest of all the things that I tried and what worked for me best.
+I hope it will help you in developing the approach to solve similar problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this blog I have tried to answer  the following questions 
+
+1)What is  introduction to real World dataset?
+
+2)How to convert the buisness problem to technical problem ?
+
+3)How to decide the evaluation metrics?
+
+4)How to decide which model is good ?
+
+5)What can be further done to improve our model?
+
+
+
+
 
 ### Markdown
 
